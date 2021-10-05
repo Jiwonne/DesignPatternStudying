@@ -2,7 +2,6 @@ package InnerClass;
 
 import java.util.Scanner;
 public class OuterClass {
-	
 	Scanner userInput = new Scanner(System.in);
 	
 	private int value = 0;

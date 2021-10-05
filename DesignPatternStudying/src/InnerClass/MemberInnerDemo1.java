@@ -3,7 +3,6 @@ package InnerClass;
 public class MemberInnerDemo1 {
 
 	public static void main(String[] args) {
-		
 		/*
 		 * Creating an instance of OuterClass before instantiating InnerClass
 		 */

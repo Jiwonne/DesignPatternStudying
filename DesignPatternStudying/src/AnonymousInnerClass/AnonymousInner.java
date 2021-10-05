@@ -3,7 +3,6 @@ package AnonymousInnerClass;
 public class AnonymousInner {
 
 	public static void main(String[] args) {
-		
 		/*
 		 * Call printer objects with Printable Interface
 		 * Create an anonymous class
