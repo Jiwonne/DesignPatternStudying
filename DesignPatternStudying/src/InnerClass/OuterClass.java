@@ -6,6 +6,10 @@ public class OuterClass {
 	
 	private int value = 0;
 	
+	/*
+	 * The benefit of Inner class is it doesn't have to reference Outer class's object
+	 * It can reduce totall code.
+	 */
 	class InnerClass {
 		int calculate() {
 			System.out.print("Enter a number: ");
